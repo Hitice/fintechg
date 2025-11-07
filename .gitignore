@@ -1,0 +1,33 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Ionic / Angular
+.angular/
+.ionic/
+dist/
+www/
+coverage/
+*.log
+
+# Ambiente e sistema
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Builds e artefatos
+*.zip
+*.tar.gz
+*.tgz
+
+# Capacitor / Cordova builds
+android/
+ios/
